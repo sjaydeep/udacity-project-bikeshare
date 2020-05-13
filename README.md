@@ -1,4 +1,4 @@
-wednesday, May 13,2020
+Wednesday, May 13,2020
 
 Explore US Bikeshare Data
 
