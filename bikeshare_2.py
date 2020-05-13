@@ -327,7 +327,7 @@ def trip_duration_stats(df):
 
     # display total travel time; cast to int, we don't need fractions of seconds!
     total_travel_time = int(df['Trip Duration'].sum())
-    print('    Total travel time:   ', total_travel_time, 'seconds')
+    print('    Total travel time journey:   ', total_travel_time, 'seconds')
     print('                             ', seconds_to_HMS_str(total_travel_time))
 
     # display mean travel time
