@@ -3,6 +3,12 @@ import pandas as pd
 import numpy as np
 
 #here is main python file of this project.
+""" 
+This is main python script file to explore US bike share data. you can see all type
+ of data and ask question these are given in README.md file
+so First you read that file to proper use this program"""
+
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
