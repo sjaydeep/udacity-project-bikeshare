@@ -2,8 +2,10 @@ wednesday, May 13,2020
 
 Explore US Bikeshare Data
 
-You can run the script using a Python integrated development environment (IDE) such as visual code. you will need to download the Anaconda installer. This script is written in Python 3..
+How to Run:
+You can run the script using a Python integrated development environment (IDE) such as visual code. you will need to download the Anaconda installer. This script is written in Python 3.
 
+Dataset:
 The data is provided by Motivate, which is a bike share system provider for many cities in the United States. The data files for all three cities contain the same six columns:
 
 Start Time
@@ -28,6 +30,7 @@ What is the most popular trip?
 
 And many more....
 
+Resources:
 Check validity of date:
 https://stackoverflow.com/questions/9987818/in-python-how-to-check-if-a-date-is-valid/9987935
 
